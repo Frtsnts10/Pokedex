@@ -1,2 +1,2 @@
-# Pokedex_List-Website-HTML
+# Pokedex List Website HTML
  List Pokedex from pokedex API
